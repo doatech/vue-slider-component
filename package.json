@@ -1,6 +1,6 @@
 {
-  "name": "vue-slider-component",
-  "version": "3.0.40",
+  "name": "@doatech/vue-slider-component",
+  "version": "3.0.41",
   "description": "A highly customized slider component",
   "keywords": [
     "vue",
@@ -21,14 +21,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NightCatSama/vue-slider-component.git"
+    "url": "git+https://github.com/doatech/vue-slider-component.git"
   },
-  "author": "NightCatSama <642163903@qq.com>",
-  "licenses": "MIT",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NightCatSama/vue-slider-component/issues"
+    "url": "https://github.com/doatech/vue-slider-component/issues"
   },
-  "homepage": "https://github.com/NightCatSama/vue-slider-component",
+  "homepage": "https://github.com/doatech/vue-slider-component",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
